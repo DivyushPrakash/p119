@@ -1,0 +1,23 @@
+ body {
+     color: white;
+     background-color: aquamarine;
+ }
+ 
+ #score {
+     float: left;
+     margin-left: 20px;
+ }
+ 
+ #timer {
+     float: right;
+     margin-right: 20px;
+ }
+ 
+ #openpopup {
+     float: right;
+ }
+ 
+ canvas {
+     margin-top: 235px;
+     box-shadow: 5px 5px 500px rgba(208, 255, 0, 0.795);
+ }
